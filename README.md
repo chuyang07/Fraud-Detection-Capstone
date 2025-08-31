@@ -31,7 +31,7 @@ Capstone project on fraud prevention for a U.S. retail rewards app; proposed tie
 - **Shopkick**
 - Shopkick is a shopping rewards app where users earn points (called kicks) by: Walking into partner stores, scanning product barcodes, uploading purchase receipts, watching videos or completing offers
 - These kicks can be redeemed for gift cards at major retailers
-- ![Shopkick Guidance](./Shopkick Guidance.png) 
+- ![Shopkick Guidance](./Shopkick%20Guidance.png) 
 - **Problem Statement**  
 - Over $3.5 million losses in 2024 due to fraud, and 90% of losses stem from receipt fraud and promo code abuse, and gaps in verification (no phone/email checks at account creation).  
 
